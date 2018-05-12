@@ -1,0 +1,31 @@
+_repo: Studies-of-Travel---Greece_45132
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45132-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, E. A. (Edward Augustus)
+    - Freeman, Edward Augustus
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_issued: '2014-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45132'
+  lccn: 04034797
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Description and travel'
+- !lcc 'DF'
+title: 'Studies of Travel: Greece'
+url: http://www.gutenberg.org/ebooks/45132
